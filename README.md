@@ -1,1 +1,2 @@
 # SOA
+Ce projet vise à développer un service web RESTful de logement pour étudiants, offrant deux options : réserver un logement dans la résidence universitaire ou via des agences immobilières conventionnées. Le projet intègre également une couche de sécurité en utilisant l'authentification basée sur les jetons (token-based authentication) avec JAX-RS pour gérer les autorisations d'accès au service.
